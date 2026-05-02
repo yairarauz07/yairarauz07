@@ -8,62 +8,57 @@
 🎓 I am a student at the University of Panama.
 💡 I am passionate about technology, especially programming, databases, and cloud services.
 ☁️ My goal is to become a **Cloud Engineer** and work with scalable and modern infrastructures.
-📚 I continuously improve my skills by taking online courses and practicing with real projects.
+📚 I continuously improve my skills by taking online courses and building real-world projects.
 🔐 I also have a growing interest in cybersecurity and secure systems.
 
 ---
 
-## 🧰 Skills
+## 🧰 Tools & Technologies
 
-### 📋 Programming Languages
+<p align="left">
 
-<p align="left"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-</p>
+<!-- Programming -->
 
----
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 
-### 🌐 Web Development
+<!-- Web -->
 
-<p align="left"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
 
----
+<!-- Cloud -->
 
-### ☁️ Cloud & Platforms
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/>
 
-<p align="left"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/>
-</p>
+<!-- Databases -->
 
----
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
 
-### 💾 Databases
+<!-- DevOps -->
 
-<p align="left"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/>
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
 
----
+<!-- Systems -->
 
-### 🔐 Cybersecurity & Systems
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40"/>
 
-<p align="left"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-</p>
+<!-- IDEs -->
 
----
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40"/>
 
-### 💻 Tools & IDEs
+<!-- Others -->
 
-<p align="left"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+<img src="https://cdn.simpleicons.org/microsoftaccess" width="40"/>
+
 </p>
 
 ---
@@ -84,8 +79,8 @@
 
 * ☁️ Become a professional Cloud Engineer
 * 💾 Master database administration and design
-* 🔐 Learn more about cybersecurity and system protection
-* 🚀 Build real-world projects and improve problem-solving skills
+* 🔐 Learn cybersecurity and system protection
+* 🚀 Build scalable and real-world projects
 
 ---
 
