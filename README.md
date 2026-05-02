@@ -82,11 +82,11 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yairarauz07&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yairarauz&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yairarauz07&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yairarauz&theme=tokyonight" />
 </p>
 
 ---
