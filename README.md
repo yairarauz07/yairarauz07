@@ -75,6 +75,15 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="45"/>
 
+<!-- AI & Tools -->
+
+<img src="https://cdn.simpleicons.org/openai" width="45"/>
+<img src="https://cdn.simpleicons.org/google" width="45"/>
+<img src="https://cdn.simpleicons.org/microsoft" width="45"/>
+<a href="mailto:yairarauz07@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
